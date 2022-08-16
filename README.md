@@ -2,7 +2,7 @@
 
 Mi nombre es Cristian Steven Gonzalez Arango, soy ingeniero en sistemas.
 
-Me apasiona la programación y el desarrollo web, preferiblemente desarrollo en Python con Django o Flask o Java.
+Me apasiona la programación y el desarrollo web, preferiblemente desarrollo en Python con Frameworks como Django o Flask y Java.
 
 ![enter image description here](https://www.codigojs.com/media/thumbs/articles/2020/03/08/1_HVKOLLX7wprRbHTl2IPDcQ.png.800x600_q90.jpg)
 
