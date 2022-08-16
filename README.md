@@ -13,6 +13,8 @@ Es un framework web de alto nivel que permite el desarrollo rápido de sitios we
 
 
 Es un "micro" Framework escrito en Python y concebido para facilitar el desarrollo de aplicaciones web bajo patron MVC (Modelo, Vista, controlador). 
+
+
 ![enter image description here](https://c.tenor.com/XOJyPTMOUT8AAAAd/cosmos-universo.gif)
 
 
